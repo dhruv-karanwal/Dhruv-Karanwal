@@ -1,5 +1,3 @@
-<!-- PROFILE BANNER -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dhruv%20Karanwal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -15,7 +13,7 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech CSE (Artificial Intelligence)** student at **VIT Pune**
+🎓 B.Tech **CSE (Artificial Intelligence)** student at **VIT Pune**
 💻 Passionate about **Software Development, AI/ML, and Intelligent Systems**
 🧠 Love building **real-world problem solving applications**
 👨‍💻 Member of **IEEE App Project Team – VIT Pune**
@@ -25,25 +23,25 @@
 
 # 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,sql,dart"/>
 </p>
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask"/>
 </p>
 
-### Tools & Platforms
+### 🛠 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
 </p>
 
-### Data Science Libraries
+### 📊 Data Libraries
 
 * NumPy
 * Pandas
@@ -54,92 +52,56 @@
 
 ## 🌍 Sahyog – Disaster Relief Platform
 
-**Flutter • Python • AI/ML • Liquid Galaxy**
+Flutter • Python • AI/ML • Liquid Galaxy
 
-* Platform to locate **nearby shelters, hospitals, and emergency resources**
-* Built **mobile application for emergency reporting**
+* Disaster relief platform for locating shelters, hospitals, and emergency resources
+* Real-time **location-based emergency resource discovery**
 * Integrated **Liquid Galaxy geospatial visualization**
-* Implemented **AI-based resource matching system**
-* Real-time disaster response coordination
+* AI system to match users with nearby relief services
 
 ---
 
 ## 🚇 AI Metro Document Assistant
 
-**Python • NLP**
+Python • NLP
 
-* AI chatbot that retrieves **metro service information**
-* Document scanning and text extraction system
-* NLP-based **query answering**
-* Smart classification of operational documents
+* AI chatbot that retrieves metro service information from operational documents
+* Implemented **document scanning and text extraction**
+* NLP-powered **query answering system**
 
 ---
 
 ## 🐅 Bandhavgarh Safari Booking System
 
-**Flutter • Firebase**
+Flutter • Firebase
 
-* Clerk-based safari booking application
-* Implemented **first-come-first-serve reservation logic**
-* Developed **roster allocation system**
-* Firebase powered **real-time data synchronization**
+* Clerk-based safari reservation system
+* **First-come-first-serve booking logic**
+* Firebase-powered **real-time booking data management**
 
 ---
 
 ## 📊 Stock Market Volatility Prediction
 
-**Machine Learning • Python**
+Machine Learning • Python
 
 * Predicts stock volatility using **technical indicators**
-* ML-based **financial forecasting system**
-* Interactive data visualization
+* ML-based financial forecasting system
 
 ---
 
 # 🏆 Achievements
 
-🥇 **Patent Published**
+🏅 **Patent Published**
 Gen-AI Powered Healthcare Assistant for Chronic Disease Prediction
 (Intellectual Property India – 2026)
 
 🎤 Organized **LLM Workshop for 200+ students**
 
-👨‍💻 **App Project Team – IEEE Student Branch VIT Pune**
+👨‍💻 **IEEE Student Branch – App Project Team**
 
 🏫 **Department Representative (First Year)**
 Led coordination for **1000+ students**
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhruv-karanwal&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-karanwal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-karanwal&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhruv-karanwal&theme=onedark"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-karanwal&theme=react-dark"/>
-</p>
 
 ---
 
@@ -148,33 +110,20 @@ Led coordination for **1000+ students**
 * Data Structures & Algorithms in **C++**
 * **Machine Learning systems**
 * **Backend development**
-* **System Design**
+* **System Design fundamentals**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+📧 Email: [dhruvkaranwal123@gmail.com](mailto:dhruvkaranwal123@gmail.com)
+🎓 College Email: [dhruv.karanwal24@vit.edu](mailto:dhruv.karanwal24@vit.edu)
 
-<a href="https://www.linkedin.com/in/dhruv-karanwal">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+💼 LinkedIn
+https://www.linkedin.com/in/dhruv-karanwal
 
-<a href="mailto:dhruvkaranwal123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/dhruv-karanwal">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhruv-karanwal&color=blue&style=flat-square"/>
-</p>
+🐙 GitHub
+https://github.com/dhruv-karanwal
 
 ---
 
