@@ -41,11 +41,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
 </p>
 
-### 📊 Data Libraries
-
-* NumPy
-* Pandas
-
 ---
 
 # 🚀 Featured Projects
